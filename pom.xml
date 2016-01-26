@@ -15,9 +15,9 @@
     <url>http://wso2.org</url>
 
     <scm>
-        <url>https://github.com/wso2/carbon-data.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-data.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-data.git</connection>
+        <url>https://github.com/charwliu/carbon-data.git</url>
+        <developerConnection>scm:git:https://github.com/charwliu/carbon-data.git</developerConnection>
+        <connection>scm:git:https://github.com/charwliu/carbon-data.git</connection>
         <tag>HEAD</tag>
     </scm>
 
